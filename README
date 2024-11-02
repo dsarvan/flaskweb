@@ -1,13 +1,13 @@
 Scalable Flask web application build from scratch.
 
 flaskweb
-    ├── __init__.py
-    ├── pages.py
-    ├── static
-    │   └── styles.css
-    └── templates
-        ├── base.html
-        ├── _navigation.html
-        └── pages
-            ├── about.html
-            └── home.html
+├── __init__.py
+├── pages.py
+├── static
+│   └── styles.css
+└── templates
+    ├── base.html
+    ├── _navigation.html
+    └── pages
+        ├── about.html
+        └── home.html
